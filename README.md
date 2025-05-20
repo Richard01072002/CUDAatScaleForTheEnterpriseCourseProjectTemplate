@@ -126,5 +126,7 @@ This will remove all files in the bin/ directory.
 
 |Input|Output|
 |:-:|:-:|
-|![image4885](https://github.com/user-attachments/assets/5f01939e-a07a-4b5d-ba97-5dad20abc952) |![canny_edges_7](https://github.com/user-attachments/assets/98a54f9d-528b-41bd-ad14-73a717963e16) |
-|![image4944](https://github.com/user-attachments/assets/12a7beb7-b870-49f1-b3b6-cf78e7df16a5) |![canny_edges_45](https://github.com/user-attachments/assets/79d0a0e8-f540-4cf0-a62a-c886f3266887) |
+<img width="444" alt="Screenshot 2025-05-21 at 1 15 01 AM" src="https://github.com/user-attachments/assets/207f7ca7-a2e8-45f3-b551-661f08ddabb6" />
+|
+| <img width="766" alt="Screenshot 2025-05-21 at 1 16 10 AM" src="https://github.com/user-attachments/assets/60fd1d73-1dab-4a00-bebc-e4b11a739bb4" />
+|
