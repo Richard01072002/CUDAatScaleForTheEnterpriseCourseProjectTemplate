@@ -128,6 +128,7 @@ This will remove all files in the bin/ directory.
 |:-:|:-:|
 <img width="444" alt="Screenshot 2025-05-21 at 1 15 01 AM" src="https://github.com/user-attachments/assets/207f7ca7-a2e8-45f3-b551-661f08ddabb6" />
 
-#Output
+# Output
+
 | <img width="766" alt="Screenshot 2025-05-21 at 1 16 10 AM" src="https://github.com/user-attachments/assets/60fd1d73-1dab-4a00-bebc-e4b11a739bb4" />
 |
